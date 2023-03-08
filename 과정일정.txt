@@ -1,0 +1,14 @@
+[KOSTA 2030/02/27~07/27]
+
+- JAVA Programming(120H)  :~3/21
+- Database(40H) :~3/28
+- JAVA/SQL Project(8H) :~3/29
+- HTML/CSS/JS/JQuery(48H) : ~4/6
+- React.js(40H) : ~4/13
+- Front project(40H) : ~4/20
+- Servlet/JSP(56H) : ~5/3
+- Spring Framework(80H) : ~5/19
+- Mini Project(88H) : ~6/9
+- Spring boot(80H) : ~6/26
+- Github/개발방법론(16H) : ~6/28
+- Final Project(168H) : ~7/27
